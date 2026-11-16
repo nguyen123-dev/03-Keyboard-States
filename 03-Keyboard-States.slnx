@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="03-Keyboard-States/03-Keyboard-States.vcxproj" Id="5bb3dc44-d6af-494b-9841-43b9ae3c6588" />
+</Solution>
